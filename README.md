@@ -3,7 +3,7 @@
 ## Overview
 Implementation of "Generative Graph Dictionary Learning" in ICML23
 <p align="center">
-  <img width="1200" height="800" src="./imgs/FraMe.png">
+  <img width="1200" height="600" src="./imgs/FraMe.png">
 </p>
 
 **prerequisites**
