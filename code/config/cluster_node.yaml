@@ -1,0 +1,23 @@
+ENZYMES:
+ alpha: 0.5
+ sigma: 35
+ graph_class: 6
+ node_class: 3
+
+AIDS:
+ alpha: 0.5
+ sigma: 15
+ graph_class: 2
+ node_class: 38
+
+PTC-MR:
+ alpha: 0.2
+ sigma: 30
+ graph_class: 2
+ node_class: 19
+
+PROTEINS:
+ alpha: 0.5
+ sigma: 30
+ graph_class: 2
+ node_class: 3

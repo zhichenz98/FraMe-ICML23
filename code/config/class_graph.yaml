@@ -1,0 +1,14 @@
+ENZYMES:
+  alpha: 0.5
+  sigma: 15
+  graph_class: 6
+
+IMDB-M:
+  alpha: 0.5
+  sigma: 50
+  graph_class: 3
+
+PTC-MR:
+  alpha: 1.0
+  sigma: 50
+  graph_class: 2
