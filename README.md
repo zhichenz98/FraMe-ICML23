@@ -1,7 +1,7 @@
 # Generative Graph Dictionary Learning
 
 ## Overview
-Implementation of "Generative Graph Dictionary Learning" in ICML23
+Implementation of [Generative Graph Dictionary Learning](https://proceedings.mlr.press/v202/zeng23c.html) in ICML 2023
 <p align="center">
   <img width="1200" height="600" src="./imgs/FraMe.png">
 </p>
@@ -38,7 +38,23 @@ all datasets used in the paper are downloaded from the [Benchmark Data Sets for 
 
 
 ## Reference
-Zhichen Zeng, Ruike Zhu, Yinglong Xia, Hanqing Zeng, and Hanghang Tong. Generative Graph Dictionary Learning. In *International Conference on Machine Learning*. 2023
+If you find this paper helpful to your research, please kindly cite the following paper:
+```
+@InProceedings{pmlr-v202-zeng23c,
+  title = {Generative Graph Dictionary Learning},
+  author = {Zeng, Zhichen and Zhu, Ruike and Xia, Yinglong and Zeng, Hanqing and Tong, Hanghang},
+  booktitle = {Proceedings of the 40th International Conference on Machine Learning},
+  pages = {40749--40769},
+  year = {2023},
+  editor = {Krause, Andreas and Brunskill, Emma and Cho, Kyunghyun and Engelhardt, Barbara and Sabato, Sivan and Scarlett, Jonathan},
+  volume = {202},
+  series = {Proceedings of Machine Learning Research},
+  month = {23--29 Jul},
+  publisher =  {PMLR},
+  pdf = {https://proceedings.mlr.press/v202/zeng23c/zeng23c.pdf},
+  url = {https://proceedings.mlr.press/v202/zeng23c.html},
+}
+```
 
 ## Acknowledgement
 This work is built upon the wonderful [Python Optimal Transport toolbox](https://pythonot.github.io/) and the [Fused Gromov-Wasserstein repository](https://github.com/tvayer/FGW).
